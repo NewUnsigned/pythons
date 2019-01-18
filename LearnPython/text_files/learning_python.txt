@@ -1,0 +1,6 @@
+In Python you can write method.
+In Python you can write instance.
+In Python you can write class.
+In Python you can write a.
+In Python you can write b.
+In Python you can write c.
